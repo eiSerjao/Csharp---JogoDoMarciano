@@ -230,4 +230,4 @@ void TelaInicial()
     }
 }
 
-GameMarciano();
+TelaInicial();
